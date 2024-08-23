@@ -21,11 +21,11 @@ The next line contains an integer T , the number of transactions.
 The next T lines each contain three integers: from_userID, to_userID, amount, where from_userID and to_userID are the identifiers of the users involved in the transaction, amount is the amount transferred
 
 Constraints
-1 ≤ N ≤ 102
-1 ≤ userID ≤ 102
-0 ≤ balance ≤ 104
-1 ≤ T ≤ 103
-0 ≤ amount ≤ 104
+1 ≤ N ≤ 102,
+1 ≤ userID ≤ 102,
+0 ≤ balance ≤ 104,
+1 ≤ T ≤ 103,
+0 ≤ amount ≤ 104.
 
 Output Format
 For each transaction:
