@@ -1,5 +1,5 @@
 # Digital-Wallet-Management-System
-A C++ code to implement application for managing digital wallet transactions, including fund transfers and sorting users by remaining balance.
+A C++ code to implement application for managing digital wallet transactions, including fund transfers and sorting users by remaining balance.(By using only  basic concepts like arrays,searching,sorting etc);
 
 Overview
 This Digital Wallet Management System is a simple C++ application that allows users to manage financial transactions digitally. The system supports transferring funds between users, checking balances, and displaying the sorted list of users based on their remaining balance after transactions.
